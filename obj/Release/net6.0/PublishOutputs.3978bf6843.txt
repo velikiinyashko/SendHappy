@@ -1,0 +1,15 @@
+/home/ivanov/jobs/SendHappy/publish/index.html
+/home/ivanov/jobs/SendHappy/publish/SendHappy
+/home/ivanov/jobs/SendHappy/publish/appsettings.Development.json
+/home/ivanov/jobs/SendHappy/publish/appsettings.json
+/home/ivanov/jobs/SendHappy/publish/SendHappy.dll
+/home/ivanov/jobs/SendHappy/publish/SendHappy.deps.json
+/home/ivanov/jobs/SendHappy/publish/SendHappy.runtimeconfig.json
+/home/ivanov/jobs/SendHappy/publish/SendHappy.pdb
+/home/ivanov/jobs/SendHappy/publish/CronJobExpress.dll
+/home/ivanov/jobs/SendHappy/publish/Cronos.dll
+/home/ivanov/jobs/SendHappy/publish/Microsoft.OpenApi.dll
+/home/ivanov/jobs/SendHappy/publish/Newtonsoft.Json.dll
+/home/ivanov/jobs/SendHappy/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/ivanov/jobs/SendHappy/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/ivanov/jobs/SendHappy/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
